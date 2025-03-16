@@ -1,4 +1,4 @@
-### Ola meu nome é Nicolas 👋🏿
+### Olá, meu nome é Nicolas 👋🏿.
 
 ## Algumas Skills
 <div style="display: inline_block"><br/>
