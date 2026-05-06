@@ -40,7 +40,3 @@ Sou um **Desenvolvedor Back-end** e acadêmico de **Ciência da Computação** n
 ### 🎓 Formação Acadêmica
 *   **Ciência da Computação** - Universidade do Vale do Itajaí (Univali).
 
----
-
-### 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NicolasGeziel&show_icons=true&theme=dark&rank_icon=github)
