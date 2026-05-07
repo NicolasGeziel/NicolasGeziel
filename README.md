@@ -4,7 +4,7 @@ Sou um **Desenvolvedor Back-end** e acadêmico de **Ciência da Computação** n
 
 ---
 
-### 🛠️ Stack Técnica (Back-end Focus)
+### 🛠️ Stack Técnica (Back-end)
 
 #### Linguagens & Frameworks Principais
 <div style="display: inline_block">
