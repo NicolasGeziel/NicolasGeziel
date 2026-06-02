@@ -4,7 +4,7 @@ Sou um **Desenvolvedor Back-end** e acadêmico de **Ciência da Computação** n
 
 ---
 
-### 🛠️ Stack Técnica (Back-end)
+###  Stack Técnica (Back-end)
 
 #### Linguagens & Frameworks Principais
 <div style="display: inline_block">
@@ -25,18 +25,18 @@ Sou um **Desenvolvedor Back-end** e acadêmico de **Ciência da Computação** n
 
 ---
 
-### 🚀 Projetos
+### Projetos
 
-#### 🛍️ **BellaGestora** (SaaS para Autônomos e Profissionais da Beleza)
+#### **BellaGestora** (SaaS para Autônomos e Profissionais da Beleza)
 *   **Papel**: Criador e Desenvolvedor Principal (Arquitetura e Back-end).
 *   **O Produto**: Plataforma no modelo SaaS (Software as a Service) que permite a criação de Vitrines Digitais, catálogos de produtos sob encomenda e páginas de agendamento online integradas ao WhatsApp.
 *   **Destaque Técnico**: Engenharia do motor de agendamentos (prevenção de conflitos de horários e fuso horário), arquitetura multi-tenant (onde cada cliente gerencia sua própria loja/vitrine de forma isolada) e modelagem relacional de banco de dados.
 *   **Status**: Produto comercial ativo em produção (Repositório Privado).
 
-> 🔗 *Nota: O código-fonte da BellaGestora é mantido privado por se tratar de um produto comercial. No entanto, você pode conferir a plataforma real operando em produção clicando aqui: **[Acessar Bella Gestora](https://www.bellagestora.com.br/)**.*
+> *Nota: O código-fonte da BellaGestora é mantido privado por se tratar de um produto comercial. No entanto, você pode conferir a plataforma real operando em produção clicando aqui: **[Acessar Bella Gestora](https://www.bellagestora.com.br/)**.*
 
 ---
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 *   **Ciência da Computação** - Universidade do Vale do Itajaí (Univali).
 
