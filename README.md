@@ -1,6 +1,6 @@
 # Olá, eu sou o Nicolas Geziel 👋🏿
 
-Sou um **Desenvolvedor Back-end** e acadêmico de **Ciência da Computação** na Univali.
+Sou um **Desenvolvedor de software** e acadêmico de **Ciência da Computação** na Univali.
 
 ---
 
